@@ -3783,3 +3783,9 @@ input, select, textarea {
 			}
 
 		}
+
+		.project-icon {
+			font-size: 4em; /* Adjust the size as needed */
+			color: #ec96ca; /* Change the color as needed */
+			margin-bottom: 10px;
+		}
